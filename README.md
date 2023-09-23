@@ -64,6 +64,20 @@ One of the first issues we faced was that our Deployment 3.1 wasn’t deploying 
 
 <img width="1671" alt="Screenshot 2023-09-23 at 8 40 32 AM" src="https://github.com/jaganzen/dep3.1/assets/101806502/4713ec18-28d5-4aaa-b75d-a8009d8125dd">
 
+
+## Replace Test Code Snippet in Python
+
+Here is a Python test code snippet from our application.
+
+```python
+from application import app, greet
+
+def test_quick():
+  a = "jeff"
+  greeting = greet(a)
+
+
+
 <img width="785" alt="Screenshot 2023-09-23 at 8 40 40 AM" src="https://github.com/jaganzen/dep3.1/assets/101806502/fd38ed85-b1f4-49e2-a135-5b4dd7204ab0">
 
 
